@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 😃<br><br>My name is Ikki. I am a data engineer with 5 years experience working in this field.<br>I love working with messy data, transforming them for BI analysis as well as transporting them to the target destination.<br><br>Here, you will find projects that resemble my previous and current experience working in the big data world.<br>
+Hello! 😃<br><br>My name is Ikki. I am a data engineer with 5 years experience working in this field.<br>I love working with messy data, transforming them for BI analysis as well as transporting them to the target destination.<br><br>Here, you will find projects that resemble my previous and current experience working in the big data world.<br><br>Started journaling my data tech works in June 2026.<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohdnuriqhwan/) 
 <br><br>
