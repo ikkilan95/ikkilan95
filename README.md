@@ -9,15 +9,6 @@ Hello! 😃<br><br>My name is Ikki. I am a data engineer with 5 years experience
 <br><br>
 
 # 📜 List of Projects:
-### [🎖Data Modelling: Adopting Medallion Architecture For Star Schema Relational Database](https://github.com/ikkilan95/sql-datawarehouse-project)
-#### **What's in the project?**
-- Legacy Data Ingestion: Automates the extraction of raw data from CSV flat files and safely loads it into a Microsoft SQL Server relational database.
-- Structured Medallion Architecture: Organizes the data pipeline into distinct stages (Bronze, Silver, and Gold) to progressively clean, refine, and secure data quality.
-- 3NF Transactional Staging: Applies Third Normal Form (3NF) normalization principles to eliminate data redundancy and ensure data integrity during early processing layers.
-- Dimensional Data Modeling: Transforms the normalized data into an optimized Star Schema design, structuring it into clear Fact and Dimension tables for efficient business intelligence and reporting.
-
-<br>
-
 ### [✨ PySpark: Transforming Data From Hive Distributed Warehouse To Kafka Events Format](https://github.com/ikkilan95/MDM_Spark_Project)
 #### **What's in the project?**
 - Distributed Streaming ETL Pipeline: Covers the complete ingestion and loading lifecycle by extracting data from a distributed Hive data warehouse, executing the PySpark transformations, and publishing the resulting CDC events directly into a Confluent Kafka cluster as live topics.
@@ -26,6 +17,15 @@ Hello! 😃<br><br>My name is Ikki. I am a data engineer with 5 years experience
 - Local Testing & Validation: Implements rigorous local testing protocols utilizing Pytest alongside PySpark's native *assertDataFrameEqual* module to ensure transformation accuracy before deployment.
 - CI/CD Git Workflow: Provides a comprehensive walkthrough of the version control lifecycle, detailing how to isolate, commit, and push individual project folders to a Git repository.
 - Performance Tuning & Optimization: Evaluates QA testing metrics to precisely tune Spark driver and executor resource allocations, maximizing processing efficiency in the production environment.
+
+<br>
+
+### [🎖Data Modelling: Adopting Medallion Architecture For Star Schema Relational Database](https://github.com/ikkilan95/sql-datawarehouse-project)
+#### **What's in the project?**
+- Legacy Data Ingestion: Automates the extraction of raw data from CSV flat files and safely loads it into a Microsoft SQL Server relational database.
+- Structured Medallion Architecture: Organizes the data pipeline into distinct stages (Bronze, Silver, and Gold) to progressively clean, refine, and secure data quality.
+- 3NF Transactional Staging: Applies Third Normal Form (3NF) normalization principles to eliminate data redundancy and ensure data integrity during early processing layers.
+- Dimensional Data Modeling: Transforms the normalized data into an optimized Star Schema design, structuring it into clear Fact and Dimension tables for efficient business intelligence and reporting.
 
 <br><br>
 ## 📊 GitHub Stats:
